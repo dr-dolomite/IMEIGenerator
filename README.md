@@ -5,3 +5,5 @@ Simple IMEI Generator
 
 # DOWNLOAD HERE or CLONE
   https://www.mediafire.com/file/ynws15w41owozml/imei.exe/file
+
+# BY RUS
